@@ -1,0 +1,2 @@
+export BUILDKITE_AGENT_UID=$(id -u)
+export BUILDKITE_AGENT_GID=$(id -g)
